@@ -1,6 +1,6 @@
 - 👋 Hi, I’m K R Bharat
 - 👀 I’m interested in learning programming languages and applying them in economic fields.
-- 🌱 I’m currently learning Julia.
+- 🌱 
 
 
 <!---
