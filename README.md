@@ -1,5 +1,5 @@
 - 👋 Hi, I’m K R Bharat
-- 👀 I’m interested in learning programming languages and applying them in economic fields.
+- 👀 Working at SCMAC. Interested in Python programming and data science.
 - 🌱 
 
 
